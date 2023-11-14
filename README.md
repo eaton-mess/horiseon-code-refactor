@@ -4,7 +4,7 @@
 
 This repository ("Horiseon Code Refactor") aims to simplify, condense and streamline both the existing HTML and CSS so that the remaining code has ease of use and can be easily read/edited for further use. The client, as a marketing agency, required a website that both followed accesibility standards to optimise seo and looked good doing it. The resulting code has solved such issues like long-winded code, trimming attributes in the CSS so that multiples are not clogging up the style sheet and making sure they co-exist with one another so that the page remains functional.
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+https://eatontechnology.github.io/horiseon-code-refactor/
 
 
 ## Table of Contents
