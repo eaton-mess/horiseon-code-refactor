@@ -24,7 +24,7 @@ With regards to the use of CSS, it has been made cohesive, using existing classe
 ## Author
 
 Lauren Eaton
-https://github.com/eatontechnology
+https://github.com/eaton-mess
 
 
 ## License
